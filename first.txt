@@ -14,5 +14,3 @@ pony
 issuee
 adding majid
 adding saman
-hi 
-w203
